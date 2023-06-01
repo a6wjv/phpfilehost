@@ -1,0 +1,15 @@
+.breadcrumbs-top a {
+    width: auto;
+}
+.flatpickr-time {
+    height: auto !important;
+}
+select[readonly] {
+    pointer-events: none;
+}
+.f-size12{
+  font-size:14px;
+}
+.p4px{
+ padding: 4px 14px;
+}
